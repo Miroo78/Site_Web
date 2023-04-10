@@ -43,7 +43,7 @@ header{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
-   
+
 }
 .style-ecriture3{
 color: white;
@@ -53,49 +53,73 @@ margin: auto;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
 }
+
 .style-ecriture2{
-color: aliceblue;
+color: black;
 font-family:Arial, Helvetica, sans-serif;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color:rgba(94, 92, 92, 0.7)
+width: 160px;
+
 }
+
+
 .enbas1{
-    background-color:white;
-    color: dimgray;
-    font-family: monospace;
     text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: aliceblue;
+    background-color:rgba(94, 92, 92, 0.7) ;
+    width: 400px;
+    margin: auto;
+    padding: 12px;
+    margin-bottom: 20px;
     text-decoration: double;
 }
-.numero22{
-    background-color: white;
-}
+
+
+
+
+
 .numero23{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    color: aliceblue;
-    background-color:rgba(94, 92, 92, 0.7) ;
-    width: 400px; 
-    margin: auto; 
-    
-    padding: 12px;
-    margin-bottom: 20px;
-}
-h5{
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: rgba(94, 92, 92, 0.7);
-    width: 200px;
-    margin: auto;
-    text-align: center;
-}
-.a{
-    color:aliceblue;
-    text-align: center
-    background-color:rgba(94, 92, 92, 0.7)
+    color: black;
+    background-color:#70440a;
+    padding: 300px;
 
 }
-h1{
-    text-align: center;
+.iframe{
+padding: 200px;
+background-color:white;
+
+
+
+
 }
+
+.flotte {
+float:left;
+}
+
+.loginhtml{
+background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
